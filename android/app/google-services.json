@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "210311762212",
+    "project_id": "bubbleovenauth",
+    "storage_bucket": "bubbleovenauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210311762212:android:6115610500e7630391e3b1",
+        "android_client_info": {
+          "package_name": "com.example.bubbleoven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210311762212-sk7sgtlu634o0lot6ol6ah6kjoegh84q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBft0F7LaOC_qFNd6KIr6E9DdBSdRHiBck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210311762212-sk7sgtlu634o0lot6ol6ah6kjoegh84q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210311762212-2celrvnqllbah49ur1kj55i5icqifd63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bubbleoven"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
