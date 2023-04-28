@@ -4,9 +4,9 @@ A simple and user-friendly recipe app that helps you discover, organize, and sha
 
 ## Features
 
-Easy-to-navigate recipe browsing with filters for recipe names
-Save your favorite recipes to your personal collection for quick access
-Step-by-step cooking instructions with ingredient checklists
+- Easy-to-navigate recipe browsing with filters for recipe names
+- Save your favorite recipes to your personal collection for quick access
+- Step-by-step cooking instructions with ingredient checklists
 
 ## Prerequisites
 
